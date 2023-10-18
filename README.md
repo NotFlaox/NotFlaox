@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋, je ne suis Flaox </h1>
+<h1 align="center">Bonjour 👋, je ne suis Flaox</h1>
 <h3 align="center">Un développeur frontend français passionné</h3>
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=notflaox&label=Profile%20views&color=0e75b6&style=flat" alt="notflaox" /> </p>
